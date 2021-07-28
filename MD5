@@ -1,0 +1,7 @@
+f8697eeb42dc39647fc15b62e3d0ffe6 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+fcf4fdf6afbd632ced65e9bb96ce322d *R/data_doc.R
+aa6db68e346a12e80da4189baaefbbc5 *R/methods.R
+5394b7ba912d2ca491a091858f58014f *data/adults.data.rda
+56c9e82a0a226ef8f8373944edd3cd65 *man/adult.data.Rd
+36625a322f51d528cc18f71961289bd5 *man/roc_method.Rd
